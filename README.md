@@ -1,5 +1,5 @@
 # FDSFE_JVasquez
-Repository for FDSFE 2023 class (PHYS461/661)
+
 
 ADD HERE A BRIEF STATEMENT ABOUT THIS CLASS AND YOU:
 I do not know anything about coding or data science. Hopefully I will achieve an understanding about coding by taking this course. I am hoping that I will be able to use or recognize coding in my profession later in life. This class will definetly help me reach a certain point.
